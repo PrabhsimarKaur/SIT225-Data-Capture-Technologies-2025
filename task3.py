@@ -15,7 +15,7 @@ with open('sensor_data.csv', mode='w', newline='') as file:
     print("Starting data collection...")
 
 
-    end_time = time.time() + 1800 
+    end_time = time.time() + 60*30
 
     
     while time.time() < end_time:
