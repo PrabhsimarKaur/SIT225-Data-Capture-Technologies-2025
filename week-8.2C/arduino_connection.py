@@ -3,8 +3,8 @@ import threading
 import time
 
 # Your credentials for the Python device
-DEVICE_ID = "11c0bc30-8a66-4bf5-9a06-d3b77b5a05ab"
-SECRET_KEY = "JJKTz#uvJA8eEw5yd#So!BN7m"
+DEVICE_ID = "cb764dbc-a4af-4f9a-b7ea-e6787e784323"
+SECRET_KEY = "nwre!eCgb1EgUPUIA7k6S1pJg"
 
 # Global variables to store latest accelerometer readings
 latest_x, latest_y, latest_z = 0, 0, 0
